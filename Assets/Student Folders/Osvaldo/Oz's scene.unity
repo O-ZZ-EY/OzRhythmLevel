@@ -415,11 +415,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1093613130784309730, guid: caf119e6a38144bf08250b722deff3e9, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.35
+      value: -6.24
       objectReference: {fileID: 0}
     - target: {fileID: 1093613130784309730, guid: caf119e6a38144bf08250b722deff3e9, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.9107
+      value: -2.69
       objectReference: {fileID: 0}
     - target: {fileID: 1093613130784309730, guid: caf119e6a38144bf08250b722deff3e9, type: 3}
       propertyPath: m_LocalPosition.z
@@ -772,6 +772,10 @@ PrefabInstance:
       propertyPath: MainNPC
       value: 
       objectReference: {fileID: 219091717}
+    - target: {fileID: 2222939923061481438, guid: d234da9df56f40d49a2c47c6bc00444a, type: 3}
+      propertyPath: TestMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2222939923061481438, guid: d234da9df56f40d49a2c47c6bc00444a, type: 3}
       propertyPath: SideNPCs.Array.size
       value: 4

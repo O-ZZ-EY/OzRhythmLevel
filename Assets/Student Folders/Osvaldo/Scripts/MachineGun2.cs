@@ -7,7 +7,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using Random = UnityEngine.Random;
 
-public class RayGun : HazardController
+public class MachineGun2 : HazardController
 {
      public override void DoAction(string act, float amt = 0)
     {
@@ -39,7 +39,7 @@ public class RayGun : HazardController
 
                 transform.position = spawnPos;
 
-                float rotation = Random.Range(170f, 170f);
+                float rotation = Random.Range(90f, 90f);
                 transform.rotation = Quaternion.Euler(0, 0, 90f + rotation);
 
                 Shoot();

@@ -7,6 +7,8 @@
     {"Time": 3,"Dialogue": "Player?!"},
     {"Time": 4, "Action": "LerpToY", "Amt": -1},
 
+    {"Time": 5, "Who": "Machinegun4", "Action": "Barrage", "Amt": 10},
+    {"Time": 5, "Who": "Machinegun1", "Action": "Barrage", "Amt": 10},  
 
     {"Time": 6,"Dialogue": "What you thought I DIED?!"},
     {"Time": 8,"Dialogue": "Aaaahhh..."},
@@ -81,16 +83,16 @@
     {"Time":49.30, "Anim": "SpinShoot"},
     {"Time": 49.60, "Action":"LerpToPlayer"},
 
-    {"Time": 50.60, "Who": "Machinegun1", "Action": "MoveToX", "Amt": 7.2},
+    {"Time": 50.60, "Who": "Machinegun1", "Action": "MoveToX", "Amt": 6.6},
     {"Time": 50.60, "Who": "Machinegun1", "Action": "SetSpeed", "Amt": 1},
 
-    {"Time": 50.60, "Who": "Machinegun4", "Action": "MoveToX", "Amt": 7.2},
+    {"Time": 50.60, "Who": "Machinegun4", "Action": "MoveToX", "Amt": 6.6},
     {"Time": 50.60, "Who": "Machinegun4", "Action": "SetSpeed", "Amt": 1},
 
-    {"Time": 50.60, "Who": "Machinegun2", "Action": "MoveToX", "Amt": -7.2},
+    {"Time": 50.60, "Who": "Machinegun2", "Action": "MoveToX", "Amt": -6.6},
     {"Time": 50.60, "Who": "Machinegun2", "Action": "SetSpeed", "Amt": 1},
 
-    {"Time": 50.60, "Who": "Machinegun3", "Action": "MoveToX", "Amt": -7.2},
+    {"Time": 50.60, "Who": "Machinegun3", "Action": "MoveToX", "Amt": -6.6},
     {"Time": 50.60, "Who": "Machinegun3", "Action": "SetSpeed", "Amt": 1},
 
     {"Time": 50.90, "Who": "Raygun1", "Action": "MoveToY", "Amt": 4},
@@ -126,8 +128,17 @@
     {"Time": 60.30, "Dialogue": "LET'S TURN UP THE VOLUME THEN, AND I AINT TALKING ABOUT SOUND"},
     {"Time": 63.10, "Dialogue":""},
 
+  
 
-    {"Time": 64.13, "Who": "Machinegun2", "Action": "Barrage", "Amt": 10},
+    {"Time": 64.10, "Who": "Machinegun4", "Action": "Barrage", "Amt": 10},
+    {"Time": 64.10, "Who": "Machinegun1", "Action": "Barrage", "Amt": 10},
+    {"Time": 64.10, "Who": "Machinegun2", "Action": "Barrage", "Amt": 10},
+    {"Time": 64.10, "Who": "Machinegun3", "Action": "Barrage", "Amt": 10},
+
+    {"Time": 64.10, "Who": "Raygun1", "Action": "Barrage", "Amt": 10},
+    {"Time": 64.10, "Who": "Raygun2", "Action": "Barrage", "Amt": 10},
+    
+
 
     
     {"Time": 112, "Dialogue":"So all my weapons in my arsenal are not enough for you huh??"},
