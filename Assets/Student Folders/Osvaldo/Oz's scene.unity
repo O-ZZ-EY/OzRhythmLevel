@@ -397,17 +397,6 @@ Transform:
   - {fileID: 1977962254}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1163200419 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 3385520667200393095, guid: a670516b3e60b480dbd08e1bddc0b202, type: 3}
-  m_PrefabInstance: {fileID: 1741583145}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 729462c60b14d1e4cab63198554f6774, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &1460375746
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -547,71 +536,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c5d3f2865feff8d40a2b15b440e85123, type: 3}
---- !u!1001 &1741583145
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 3385520667200393095, guid: a670516b3e60b480dbd08e1bddc0b202, type: 3}
-      propertyPath: Speed
-      value: 20
-      objectReference: {fileID: 0}
-    - target: {fileID: 3385520667200393095, guid: a670516b3e60b480dbd08e1bddc0b202, type: 3}
-      propertyPath: DeathGnome
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 4929872375643573239, guid: a670516b3e60b480dbd08e1bddc0b202, type: 3}
-      propertyPath: m_Name
-      value: Projectile
-      objectReference: {fileID: 0}
-    - target: {fileID: 5540492209186463458, guid: a670516b3e60b480dbd08e1bddc0b202, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 2.4
-      objectReference: {fileID: 0}
-    - target: {fileID: 5540492209186463458, guid: a670516b3e60b480dbd08e1bddc0b202, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5540492209186463458, guid: a670516b3e60b480dbd08e1bddc0b202, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5540492209186463458, guid: a670516b3e60b480dbd08e1bddc0b202, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5540492209186463458, guid: a670516b3e60b480dbd08e1bddc0b202, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5540492209186463458, guid: a670516b3e60b480dbd08e1bddc0b202, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5540492209186463458, guid: a670516b3e60b480dbd08e1bddc0b202, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5540492209186463458, guid: a670516b3e60b480dbd08e1bddc0b202, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5540492209186463458, guid: a670516b3e60b480dbd08e1bddc0b202, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5540492209186463458, guid: a670516b3e60b480dbd08e1bddc0b202, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: a670516b3e60b480dbd08e1bddc0b202, type: 3}
 --- !u!1001 &1977962253
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -698,10 +622,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1000323258}
     m_Modifications:
-    - target: {fileID: 710968656907882295, guid: caf119e6a38144bf08250b722deff3e9, type: 3}
-      propertyPath: DefaultProjectile
-      value: 
-      objectReference: {fileID: 1163200419}
     - target: {fileID: 1093613130784309730, guid: caf119e6a38144bf08250b722deff3e9, type: 3}
       propertyPath: m_LocalScale.x
       value: 6.3798923
@@ -1007,5 +927,4 @@ SceneRoots:
   - {fileID: 1667577927}
   - {fileID: 6793645111945979331}
   - {fileID: 3016313162785750254}
-  - {fileID: 1741583145}
   - {fileID: 1000323258}

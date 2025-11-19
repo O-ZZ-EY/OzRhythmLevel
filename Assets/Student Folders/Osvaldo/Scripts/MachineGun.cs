@@ -39,7 +39,7 @@ public class MachineGun : HazardController
 
                 transform.position = spawnPos;
 
-                float rotation = Random.Range(-90f, 90f);
+                float rotation = Random.Range(-180f, 180f);
                 transform.rotation = Quaternion.Euler(0, 0, 90f + rotation);
 
                 Shoot();

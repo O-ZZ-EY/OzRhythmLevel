@@ -4,8 +4,6 @@
   "Events": [
     {"Time": 1.49,"Dialogue": ""}, 
 
-     {"Time": 2, "Who": "Monsta2", "Action": "Barrage", "Amt": 10},
-
     {"Time": 3,"Dialogue": "Player?!"},
     {"Time": 4, "Action": "LerpToY", "Amt": -1},
 
@@ -121,42 +119,15 @@
     {"Time": 54.10, "Who": "Raygun1", "Action": "Shake", "Amt": 10.50},
     {"Time": 54.10, "Who": "Raygun2", "Action": "Shake", "Amt": 10.50},
 
-    
 
     {"Time": 54.10, "Dialogue":"ARE YOU SAYING THAT MY WEAPONS ARE UTTER WASTE?!"},
     {"Time": 56.90, "Dialogue":"TOO NEGLIGIBLE TO EVEN MAKE A DENT?"},
     {"Time": 58.30, "Dialogue":"ARE YOU CALLING THEM INCOMPETENT!?!"},
     {"Time": 60.30, "Dialogue": "LET'S TURN UP THE VOLUME THEN, AND I AINT TALKING ABOUT SOUND"},
     {"Time": 63.10, "Dialogue":""},
-    {"Time": 63.30},
-
-    {"Time": 40.60, "Action":"LerpToPlayer"},
-    {"Time":40.60, "Anim": "SpinShoot"},
-    {"Time": 42, "Action":"LerpToPlayer"},
-    {"Time":42, "Anim": "SpinShoot"},
-    {"Time": 42.60, "Action":"LerpToPlayer"},
-    {"Time":42.60, "Anim": "SpinShoot"},
-    {"Time": 43.30, "Action":"LerpToPlayer"},
-    {"Time":43.30, "Anim": "SpinShoot"},
-    {"Time":44.30, "Anim": "Idle"},
 
 
-    {"Time": 45.10, "Action":"LerpToPlayer"},
-    {"Time":45.10, "Anim": "SpinShoot"},
-    {"Time": 45.60, "Action":"LerpToPlayer"},
-    {"Time":46.30, "Anim": "SpinShoot"},
-    {"Time": 46.30, "Action":"LerpToPlayer"},
-    {"Time":46.60, "Anim": "SpinShoot"},
-    {"Time": 46.60, "Action":"LerpToPlayer"},
-    {"Time":47.30, "Anim": "Idle"},
-
-    {"Time": 48.10, "Action":"LerpToPlayer"},
-    {"Time":48.10, "Anim": "SpinShoot"},
-    {"Time": 48.60, "Action":"LerpToPlayer"},
-    {"Time":48.60, "Anim": "SpinShoot"},
-    {"Time": 49.30, "Action":"LerpToPlayer"},
-    {"Time":49.30, "Anim": "SpinShoot"},
-    {"Time": 49.60, "Action":"LerpToPlayer"},
+    {"Time": 64.13, "Who": "Machinegun2", "Action": "Barrage", "Amt": 10},
 
     
     {"Time": 112, "Dialogue":"So all my weapons in my arsenal are not enough for you huh??"},
