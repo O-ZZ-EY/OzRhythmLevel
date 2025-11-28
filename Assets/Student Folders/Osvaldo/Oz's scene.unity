@@ -138,13 +138,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1000323258}
     m_Modifications:
+    - target: {fileID: 710968656907882295, guid: caf119e6a38144bf08250b722deff3e9, type: 3}
+      propertyPath: DefaultProjectile
+      value: 
+      objectReference: {fileID: 3385520667200393095, guid: b98c7c5240c5d4200a0e7ef59b602899, type: 3}
     - target: {fileID: 1093613130784309730, guid: caf119e6a38144bf08250b722deff3e9, type: 3}
       propertyPath: m_LocalScale.x
       value: -6.526686
       objectReference: {fileID: 0}
     - target: {fileID: 1093613130784309730, guid: caf119e6a38144bf08250b722deff3e9, type: 3}
       propertyPath: m_LocalScale.y
-      value: 14.033372
+      value: 14.03337
       objectReference: {fileID: 0}
     - target: {fileID: 1093613130784309730, guid: caf119e6a38144bf08250b722deff3e9, type: 3}
       propertyPath: m_LocalPosition.x
@@ -152,7 +156,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1093613130784309730, guid: caf119e6a38144bf08250b722deff3e9, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.0418
+      value: 1.5418
       objectReference: {fileID: 0}
     - target: {fileID: 1093613130784309730, guid: caf119e6a38144bf08250b722deff3e9, type: 3}
       propertyPath: m_LocalPosition.z
@@ -259,7 +263,7 @@ MonoBehaviour:
   Speed: 5
   SpinSpeed: 5
   SizeSpeed: 5
-  DefaultProjectile: {fileID: 3385520667200393095, guid: a670516b3e60b480dbd08e1bddc0b202, type: 3}
+  DefaultProjectile: {fileID: 3385520667200393095, guid: b98c7c5240c5d4200a0e7ef59b602899, type: 3}
   AltProjectiles: []
   ShootGnome: {fileID: 0}
   HurtGnome: {fileID: 0}
@@ -334,7 +338,7 @@ PrefabInstance:
     - target: {fileID: 344323735501064883, guid: be2f4c838372b4841893b58c9af6f026, type: 3}
       propertyPath: DefaultProjectile
       value: 
-      objectReference: {fileID: 3385520667200393095, guid: a670516b3e60b480dbd08e1bddc0b202, type: 3}
+      objectReference: {fileID: 3385520667200393095, guid: b98c7c5240c5d4200a0e7ef59b602899, type: 3}
     - target: {fileID: 750630774889744582, guid: be2f4c838372b4841893b58c9af6f026, type: 3}
       propertyPath: m_Name
       value: Raygun2
@@ -446,17 +450,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1000323258}
     m_Modifications:
+    - target: {fileID: 710968656907882295, guid: caf119e6a38144bf08250b722deff3e9, type: 3}
+      propertyPath: DefaultProjectile
+      value: 
+      objectReference: {fileID: 3385520667200393095, guid: b98c7c5240c5d4200a0e7ef59b602899, type: 3}
     - target: {fileID: 1093613130784309730, guid: caf119e6a38144bf08250b722deff3e9, type: 3}
       propertyPath: m_LocalScale.x
-      value: -7.1273465
+      value: -6.526686
       objectReference: {fileID: 0}
     - target: {fileID: 1093613130784309730, guid: caf119e6a38144bf08250b722deff3e9, type: 3}
       propertyPath: m_LocalScale.y
-      value: 12.617654
+      value: 14.03337
       objectReference: {fileID: 0}
     - target: {fileID: 1093613130784309730, guid: caf119e6a38144bf08250b722deff3e9, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.72
+      value: -5.89
       objectReference: {fileID: 0}
     - target: {fileID: 1093613130784309730, guid: caf119e6a38144bf08250b722deff3e9, type: 3}
       propertyPath: m_LocalPosition.y
@@ -649,11 +657,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1093613130784309730, guid: caf119e6a38144bf08250b722deff3e9, type: 3}
       propertyPath: m_LocalScale.x
-      value: 8.09681
+      value: 6.526686
       objectReference: {fileID: 0}
     - target: {fileID: 1093613130784309730, guid: caf119e6a38144bf08250b722deff3e9, type: 3}
       propertyPath: m_LocalScale.y
-      value: 12.500855
+      value: 14.03337
       objectReference: {fileID: 0}
     - target: {fileID: 1093613130784309730, guid: caf119e6a38144bf08250b722deff3e9, type: 3}
       propertyPath: m_LocalPosition.x
@@ -750,24 +758,13 @@ MonoBehaviour:
   Speed: 5
   SpinSpeed: 5
   SizeSpeed: 5
-  DefaultProjectile: {fileID: 3385520667200393095, guid: a670516b3e60b480dbd08e1bddc0b202, type: 3}
+  DefaultProjectile: {fileID: 3385520667200393095, guid: b98c7c5240c5d4200a0e7ef59b602899, type: 3}
   AltProjectiles: []
   ShootGnome: {fileID: 0}
   HurtGnome: {fileID: 0}
   DeathGnome: {fileID: 0}
   Damage: 1
   WallHit: 0
---- !u!114 &1998502121 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 3385520667200393095, guid: a670516b3e60b480dbd08e1bddc0b202, type: 3}
-  m_PrefabInstance: {fileID: 1812163851}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 729462c60b14d1e4cab63198554f6774, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &1376871053434162443
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -778,11 +775,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1093613130784309730, guid: caf119e6a38144bf08250b722deff3e9, type: 3}
       propertyPath: m_LocalScale.x
-      value: 8.072195
+      value: 6.526686
       objectReference: {fileID: 0}
     - target: {fileID: 1093613130784309730, guid: caf119e6a38144bf08250b722deff3e9, type: 3}
       propertyPath: m_LocalScale.y
-      value: 11.95508
+      value: 14.03337
       objectReference: {fileID: 0}
     - target: {fileID: 1093613130784309730, guid: caf119e6a38144bf08250b722deff3e9, type: 3}
       propertyPath: m_LocalPosition.x
@@ -790,7 +787,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1093613130784309730, guid: caf119e6a38144bf08250b722deff3e9, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.09
+      value: 1.54
       objectReference: {fileID: 0}
     - target: {fileID: 1093613130784309730, guid: caf119e6a38144bf08250b722deff3e9, type: 3}
       propertyPath: m_LocalPosition.z
@@ -832,14 +829,6 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 3552125266110411625, guid: caf119e6a38144bf08250b722deff3e9, type: 3}
-      propertyPath: m_FlipX
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3552125266110411625, guid: caf119e6a38144bf08250b722deff3e9, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 21300000, guid: 9b0902a8801e04d1caa17a806a58f277, type: 3}
     m_RemovedComponents:
     - {fileID: 710968656907882295, guid: caf119e6a38144bf08250b722deff3e9, type: 3}
     m_RemovedGameObjects: []
@@ -864,7 +853,7 @@ PrefabInstance:
     - target: {fileID: 4446073184540434527, guid: 0ac402b4df1dfb642948a77d14cf986d, type: 3}
       propertyPath: DefaultProjectile
       value: 
-      objectReference: {fileID: 1998502121}
+      objectReference: {fileID: 3385520667200393095, guid: b98c7c5240c5d4200a0e7ef59b602899, type: 3}
     - target: {fileID: 6628546495624261682, guid: 0ac402b4df1dfb642948a77d14cf986d, type: 3}
       propertyPath: m_Controller
       value: 
@@ -1027,7 +1016,7 @@ PrefabInstance:
     - target: {fileID: 344323735501064883, guid: be2f4c838372b4841893b58c9af6f026, type: 3}
       propertyPath: DefaultProjectile
       value: 
-      objectReference: {fileID: 3385520667200393095, guid: a670516b3e60b480dbd08e1bddc0b202, type: 3}
+      objectReference: {fileID: 3385520667200393095, guid: b98c7c5240c5d4200a0e7ef59b602899, type: 3}
     - target: {fileID: 750630774889744582, guid: be2f4c838372b4841893b58c9af6f026, type: 3}
       propertyPath: m_Name
       value: Raygun1

@@ -92,11 +92,6 @@
     {"Time": 50.60, "Who": "Machinegun3", "Action": "MoveToX", "Amt": -6.6},
     {"Time": 50.60, "Who": "Machinegun3", "Action": "SetSpeed", "Amt": 1},
 
-    {"Time": 50.90, "Who": "Raygun1", "Action": "MoveToY", "Amt": 4},
-    {"Time": 50.90, "Who": "Raygun1", "Action": "SetSpeed", "Amt": 1},
-
-    {"Time": 50.90, "Who": "Raygun2", "Action": "MoveToY", "Amt": 4},
-    {"Time": 50.90, "Who": "Raygun2", "Action": "SetSpeed", "Amt": 1},
 
 
     {"Time": 51.10, "Action":"LerpToPlayer"},
@@ -127,31 +122,225 @@
 
   
 
-    {"Time": 64.60, "Who": "Machinegun4", "Action": "Barrage", "Amt": 3.65},
-    {"Time": 64.60, "Who": "Machinegun1", "Action": "Barrage", "Amt": 3.65},
+    {"Time": 64.60, "Who": "Machinegun4", "Action": "Barrage", "Amt": 3},
+    {"Time": 64.60, "Who": "Machinegun1", "Action": "Barrage", "Amt": 3},
 
-    {"Time": 67.45, "Who": "Machinegun2", "Action": "Barrage", "Amt": 3.65},
-    {"Time": 67.45, "Who": "Machinegun3", "Action": "Barrage", "Amt": 3.65},
+    {"Time": 67.60, "Who": "Machinegun2", "Action": "Barrage", "Amt": 3.10},
+    {"Time": 67.60, "Who": "Machinegun3", "Action": "Barrage", "Amt": 3.10},
 
-    {"Time": 70.10, "Who": "Machinegun4", "Action": "Barrage", "Amt": 3.65},
-    {"Time": 70.10, "Who": "Machinegun1", "Action": "Barrage", "Amt": 3.65},
+    {"Time": 70.70, "Who": "Machinegun4", "Action": "Barrage", "Amt": 3.10},
+    {"Time": 70.70, "Who": "Machinegun1", "Action": "Barrage", "Amt": 3.10},
 
-    {"Time": 73.85, "Who": "Machinegun2", "Action": "Barrage", "Amt": 3.65},
-    {"Time": 73.85, "Who": "Machinegun3", "Action": "Barrage", "Amt": 3.65},
+    {"Time": 73.60, "Who": "Machinegun2", "Action": "Barrage", "Amt": 3},
+    {"Time": 73.60, "Who": "Machinegun3", "Action": "Barrage", "Amt": 3},
 
     
 
 
-    {"Time": 76.5, "Action":"LerpToPlayer"},
-    {"Time":76.5, "Anim": "SpinShoot"},
-    {"Time": 76.5, "Action":"LerpToPlayer"},
-    {"Time":76.5, "Anim": "SpinShoot"},
-    {"Time": 76.5, "Action":"LerpToPlayer"},
-    {"Time":76.5, "Anim": "SpinShoot"},
-    {"Time": 76.5, "Action":"LerpToPlayer"},
+    {"Time": 76.60, "Action":"LerpToPlayer"},
+    {"Time": 76.60, "Anim": "SpinShoot"},
+    {"Time": 76.60, "Action":"LerpToPlayer"},
+    {"Time": 76.60, "Anim": "SpinShoot"},
+    {"Time": 76.60, "Action":"LerpToPlayer"},
+    {"Time": 76.60, "Anim": "SpinShoot"},
+    {"Time": 76.60, "Action":"LerpToPlayer"},
+
+    {"Time": 78.10, "Action":"LerpToPlayer"},
+    {"Time": 78.10, "Anim": "SpinShoot"},
+    {"Time": 78.10, "Action":"LerpToPlayer"},
+    {"Time": 78.10, "Anim": "SpinShoot"},
+    {"Time": 78.10, "Action":"LerpToPlayer"},
+    {"Time": 78.10, "Anim": "SpinShoot"},
+    {"Time": 78.10, "Action":"LerpToPlayer"},
+
+    {"Time": 79.60, "Action":"LerpToPlayer"},
+    {"Time": 79.60, "Anim": "SpinShoot"},
+    {"Time": 79.60, "Action":"LerpToPlayer"},
+    {"Time": 79.60, "Anim": "SpinShoot"},
+    {"Time": 79.60, "Action":"LerpToPlayer"},
+    {"Time": 79.60, "Anim": "SpinShoot"},
+    {"Time": 79.60, "Action":"LerpToPlayer"},
+
+    {"Time": 81.10, "Action":"LerpToPlayer"},
+    {"Time": 81.10, "Anim": "SpinShoot"},
+    {"Time": 81.10, "Action":"LerpToPlayer"},
+    {"Time": 81.10, "Anim": "SpinShoot"},
+    {"Time": 81.10, "Action":"LerpToPlayer"},
+    {"Time": 81.10, "Anim": "SpinShoot"},
+    {"Time": 81.10, "Action":"LerpToPlayer"},
+
+    {"Time": 82.30, "Action":"LerpToPlayer"},
+    {"Time": 82.30, "Anim": "SpinShoot"},
+    {"Time": 82.30, "Action":"LerpToPlayer"},
+    {"Time": 82.30, "Anim": "SpinShoot"},
+    {"Time": 82.30, "Action":"LerpToPlayer"},
+    {"Time": 82.30, "Anim": "SpinShoot"},
+    {"Time": 82.30, "Action":"LerpToPlayer"},
+
+    {"Time": 84.10, "Action":"LerpToPlayer"},
+    {"Time": 84.10, "Anim": "SpinShoot"},
+    {"Time": 84.10, "Action":"LerpToPlayer"},
+    {"Time": 84.10, "Anim": "SpinShoot"},
+    {"Time": 84.10, "Action":"LerpToPlayer"},
+    {"Time": 84.10, "Anim": "SpinShoot"},
+    {"Time": 84.10, "Action":"LerpToPlayer"},
+
+    {"Time": 85.30, "Action":"LerpToPlayer"},
+    {"Time": 85.30, "Anim": "SpinShoot"},
+    {"Time": 85.30, "Action":"LerpToPlayer"},
+    {"Time": 85.30, "Anim": "SpinShoot"},
+    {"Time": 85.30, "Action":"LerpToPlayer"},
+    {"Time": 85.30, "Anim": "SpinShoot"},
+    {"Time": 85.30, "Action":"LerpToPlayer"},
+
+    {"Time": 85.60, "Action":"LerpToPlayer"},
+    {"Time": 85.60, "Anim": "SpinShoot"},
+    {"Time": 85.60, "Action":"LerpToPlayer"},
+    {"Time": 85.60, "Anim": "SpinShoot"},
+    {"Time": 85.60, "Action":"LerpToPlayer"},
+    {"Time": 85.60, "Anim": "SpinShoot"},
+    {"Time": 85.60, "Action":"LerpToPlayer"},
+
+    
+
+    {"Time": 87.10, "Action":"LerpToPlayer"},
+    {"Time": 87.10, "Anim": "SpinShoot"},
+    {"Time": 87.10, "Action":"LerpToPlayer"},
+    {"Time": 87.10, "Anim": "SpinShoot"},
+    {"Time": 87.10, "Action":"LerpToPlayer"},
+    {"Time": 87.10, "Anim": "SpinShoot"},
+    {"Time": 87.10, "Action":"LerpToPlayer"},
+
+    {"Time": 88.30, "Action":"LerpToPlayer"},
+    {"Time": 88.30, "Anim": "SpinShoot"},
+    {"Time": 88.30, "Action":"LerpToPlayer"},
+    {"Time": 88.30, "Anim": "SpinShoot"},
+    {"Time": 88.30, "Action":"LerpToPlayer"},
+    {"Time": 88.30, "Anim": "SpinShoot"},
+    {"Time": 88.30, "Action":"LerpToPlayer"},
+
+
+
+
+
+    {"Time": 90.10, "Who": "Raygun1", "Action": "MoveToY", "Amt": 4},
+    {"Time": 90.10, "Who": "Raygun1", "Action": "SetSpeed", "Amt": 1},
+
+    {"Time": 90.10, "Who": "Raygun2", "Action": "MoveToY", "Amt": 4},
+    {"Time": 90.10, "Who": "Raygun2", "Action": "SetSpeed", "Amt": 1},
 
     {"Time": 90.10, "Who": "Raygun1", "Action": "Barrage", "Amt": 10},
     {"Time": 90.10, "Who": "Raygun2", "Action": "Barrage", "Amt": 10},
+
+
+    {"Time": 93.60, "Who": "Raygun1", "Action": "Flash", "Amt":1.5},
+    {"Time": 93.60, "Who": "Raygun2", "Action": "Flash", "Amt": 1.5},
+
+    {"Time": 99.30, "Who": "Raygun1", "Action": "Flash", "Amt":1.5},
+    {"Time": 99.30, "Who": "Raygun2", "Action": "Flash", "Amt": 1.5},
+
+
+    {"Time": 104.45, "Who": "Raygun1", "Action": "Barrage", "Amt":0.85},
+    {"Time": 104.45, "Who": "Raygun2", "Action": "Barrage", "Amt": 0.85},
+
+    {"Time": 105.60, "Who": "Raygun1", "Action": "Flash", "Amt":1.5},
+    {"Time": 105.60, "Who": "Raygun2", "Action": "Flash", "Amt": 1.5},
+
+    {"Time": 110.30, "Who": "Raygun1", "Action": "Barrage", "Amt":0.85},
+    {"Time": 110.30, "Who": "Raygun2", "Action": "Barrage", "Amt": 0.85},
+
+    {"Time": 111.60, "Who": "Raygun1", "Action": "Flash", "Amt":1.5},
+    {"Time": 111.60, "Who": "Raygun2", "Action": "Flash", "Amt": 1.5},
+
+    {"Time": 112.50, "Who": "Raygun1", "Action": "Flash", "Amt":1.5},
+    {"Time": 112.50, "Who": "Raygun2", "Action": "Flash", "Amt": 1.5},
+
+
+    {"Time": 124.60, "Action":"LerpToPlayer"},
+    {"Time": 124.60, "Anim": "SpinShoot"},
+    {"Time": 124.60, "Action":"LerpToPlayer"},
+    {"Time": 124.60, "Anim": "SpinShoot"},
+    {"Time": 124.60, "Action":"LerpToPlayer"},
+    {"Time": 124.60, "Anim": "SpinShoot"},
+    {"Time": 124.60, "Action":"LerpToPlayer"},
+
+    {"Time": 126.10, "Action":"LerpToPlayer"},
+    {"Time": 126.10, "Anim": "SpinShoot"},
+    {"Time": 126.10, "Action":"LerpToPlayer"},
+    {"Time": 126.10, "Anim": "SpinShoot"},
+    {"Time": 126.10, "Action":"LerpToPlayer"},
+    {"Time": 126.10, "Anim": "SpinShoot"},
+    {"Time": 78.10, "Action":"LerpToPlayer"},
+
+    {"Time": 127.60, "Action":"LerpToPlayer"},
+    {"Time": 127.60, "Anim": "SpinShoot"},
+    {"Time": 127.60, "Action":"LerpToPlayer"},
+    {"Time": 127.60, "Anim": "SpinShoot"},
+    {"Time": 127.60, "Action":"LerpToPlayer"},
+    {"Time": 127.60, "Anim": "SpinShoot"},
+    {"Time": 79.60, "Action":"LerpToPlayer"},
+
+    {"Time": 129.10, "Action":"LerpToPlayer"},
+    {"Time": 129.10, "Anim": "SpinShoot"},
+    {"Time": 129.10, "Action":"LerpToPlayer"},
+    {"Time": 129.10, "Anim": "SpinShoot"},
+    {"Time": 129.10, "Action":"LerpToPlayer"},
+    {"Time": 129.10, "Anim": "SpinShoot"},
+    {"Time": 81.10, "Action":"LerpToPlayer"},
+
+    {"Time": 130.30, "Action":"LerpToPlayer"},
+    {"Time": 130.30, "Anim": "SpinShoot"},
+    {"Time": 130.30, "Action":"LerpToPlayer"},
+    {"Time": 130.30, "Anim": "SpinShoot"},
+    {"Time": 130.30, "Action":"LerpToPlayer"},
+    {"Time": 130.30, "Anim": "SpinShoot"},
+    {"Time": 82.30, "Action":"LerpToPlayer"},
+
+    {"Time": 131.10, "Action":"LerpToPlayer"},
+    {"Time": 131.10, "Anim": "SpinShoot"},
+    {"Time": 131.10, "Action":"LerpToPlayer"},
+    {"Time": 131.10, "Anim": "SpinShoot"},
+    {"Time": 131.10, "Action":"LerpToPlayer"},
+    {"Time": 131.10, "Anim": "SpinShoot"},
+    {"Time": 84.10, "Action":"LerpToPlayer"},
+
+    {"Time": 132.30, "Action":"LerpToPlayer"},
+    {"Time": 132.30, "Anim": "SpinShoot"},
+    {"Time": 132.30, "Action":"LerpToPlayer"},
+    {"Time": 132.30, "Anim": "SpinShoot"},
+    {"Time": 132.30, "Action":"LerpToPlayer"},
+    {"Time": 132.30, "Anim": "SpinShoot"},
+    {"Time": 85.30, "Action":"LerpToPlayer"},
+
+    {"Time": 132.60, "Action":"LerpToPlayer"},
+    {"Time": 132.60, "Anim": "SpinShoot"},
+    {"Time": 132.60, "Action":"LerpToPlayer"},
+    {"Time": 132.60, "Anim": "SpinShoot"},
+    {"Time": 132.60, "Action":"LerpToPlayer"},
+    {"Time": 132.60, "Anim": "SpinShoot"},
+    {"Time": 85.60, "Action":"LerpToPlayer"},
+
+    
+
+    {"Time": 134.10, "Action":"LerpToPlayer"},
+    {"Time": 134.10, "Anim": "SpinShoot"},
+    {"Time": 134.10, "Action":"LerpToPlayer"},
+    {"Time": 134.10, "Anim": "SpinShoot"},
+    {"Time": 134.10, "Action":"LerpToPlayer"},
+    {"Time": 134.10, "Anim": "SpinShoot"},
+    {"Time": 87.10, "Action":"LerpToPlayer"},
+
+    {"Time": 135.30, "Action":"LerpToPlayer"},
+    {"Time": 135.30, "Anim": "SpinShoot"},
+    {"Time": 135.30, "Action":"LerpToPlayer"},
+    {"Time": 135.30, "Anim": "SpinShoot"},
+    {"Time": 135.30, "Action":"LerpToPlayer"},
+    {"Time": 135.30, "Anim": "SpinShoot"},
+    {"Time": 88.30, "Action":"LerpToPlayer"},
+
+
+
+
 
     
     {"Time": 180.10, "Who": "Machinegun4", "Action": "Barrage", "Amt": 10},
