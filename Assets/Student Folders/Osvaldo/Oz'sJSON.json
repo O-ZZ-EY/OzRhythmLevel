@@ -63,7 +63,6 @@
     {"Time": 43.30, "Anim": "SpinShoot"},
     {"Time": 43.60, "Action":"LerpToPlayer"},
 
-
     {"Time": 45.10, "Action":"LerpToPlayer"},
     {"Time": 45.10, "Anim": "SpinShoot"},
     {"Time": 45.60, "Action":"LerpToPlayer"},
@@ -141,95 +140,43 @@
 
     {"Time": 76.60, "Action":"LerpToPlayer"},
     {"Time": 76.60, "Anim": "SpinShoot"},
-    {"Time": 76.60, "Action":"LerpToPlayer"},
-    {"Time": 76.60, "Anim": "SpinShoot"},
-    {"Time": 76.60, "Action":"LerpToPlayer"},
-    {"Time": 76.60, "Anim": "SpinShoot"},
-    {"Time": 76.60, "Action":"LerpToPlayer"},
 
     {"Time": 78.10, "Action":"LerpToPlayer"},
     {"Time": 78.10, "Anim": "SpinShoot"},
-    {"Time": 78.10, "Action":"LerpToPlayer"},
-    {"Time": 78.10, "Anim": "SpinShoot"},
-    {"Time": 78.10, "Action":"LerpToPlayer"},
-    {"Time": 78.10, "Anim": "SpinShoot"},
-    {"Time": 78.10, "Action":"LerpToPlayer"},
 
     {"Time": 79.60, "Action":"LerpToPlayer"},
     {"Time": 79.60, "Anim": "SpinShoot"},
-    {"Time": 79.60, "Action":"LerpToPlayer"},
-    {"Time": 79.60, "Anim": "SpinShoot"},
-    {"Time": 79.60, "Action":"LerpToPlayer"},
-    {"Time": 79.60, "Anim": "SpinShoot"},
-    {"Time": 79.60, "Action":"LerpToPlayer"},
 
     {"Time": 81.10, "Action":"LerpToPlayer"},
     {"Time": 81.10, "Anim": "SpinShoot"},
-    {"Time": 81.10, "Action":"LerpToPlayer"},
-    {"Time": 81.10, "Anim": "SpinShoot"},
-    {"Time": 81.10, "Action":"LerpToPlayer"},
-    {"Time": 81.10, "Anim": "SpinShoot"},
-    {"Time": 81.10, "Action":"LerpToPlayer"},
 
     {"Time": 82.30, "Action":"LerpToPlayer"},
     {"Time": 82.30, "Anim": "SpinShoot"},
-    {"Time": 82.30, "Action":"LerpToPlayer"},
-    {"Time": 82.30, "Anim": "SpinShoot"},
-    {"Time": 82.30, "Action":"LerpToPlayer"},
-    {"Time": 82.30, "Anim": "SpinShoot"},
-    {"Time": 82.30, "Action":"LerpToPlayer"},
 
     {"Time": 84.10, "Action":"LerpToPlayer"},
     {"Time": 84.10, "Anim": "SpinShoot"},
-    {"Time": 84.10, "Action":"LerpToPlayer"},
-    {"Time": 84.10, "Anim": "SpinShoot"},
-    {"Time": 84.10, "Action":"LerpToPlayer"},
-    {"Time": 84.10, "Anim": "SpinShoot"},
-    {"Time": 84.10, "Action":"LerpToPlayer"},
 
     {"Time": 85.30, "Action":"LerpToPlayer"},
     {"Time": 85.30, "Anim": "SpinShoot"},
-    {"Time": 85.30, "Action":"LerpToPlayer"},
-    {"Time": 85.30, "Anim": "SpinShoot"},
-    {"Time": 85.30, "Action":"LerpToPlayer"},
-    {"Time": 85.30, "Anim": "SpinShoot"},
-    {"Time": 85.30, "Action":"LerpToPlayer"},
 
     {"Time": 85.60, "Action":"LerpToPlayer"},
     {"Time": 85.60, "Anim": "SpinShoot"},
-    {"Time": 85.60, "Action":"LerpToPlayer"},
-    {"Time": 85.60, "Anim": "SpinShoot"},
-    {"Time": 85.60, "Action":"LerpToPlayer"},
-    {"Time": 85.60, "Anim": "SpinShoot"},
-    {"Time": 85.60, "Action":"LerpToPlayer"},
-
-    
 
     {"Time": 87.10, "Action":"LerpToPlayer"},
     {"Time": 87.10, "Anim": "SpinShoot"},
-    {"Time": 87.10, "Action":"LerpToPlayer"},
-    {"Time": 87.10, "Anim": "SpinShoot"},
-    {"Time": 87.10, "Action":"LerpToPlayer"},
-    {"Time": 87.10, "Anim": "SpinShoot"},
-    {"Time": 87.10, "Action":"LerpToPlayer"},
 
     {"Time": 88.30, "Action":"LerpToPlayer"},
     {"Time": 88.30, "Anim": "SpinShoot"},
-    {"Time": 88.30, "Action":"LerpToPlayer"},
-    {"Time": 88.30, "Anim": "SpinShoot"},
-    {"Time": 88.30, "Action":"LerpToPlayer"},
-    {"Time": 88.30, "Anim": "SpinShoot"},
-    {"Time": 88.30, "Action":"LerpToPlayer"},
 
 
 
 
 
-    {"Time": 90.10, "Who": "Raygun1", "Action": "MoveToY", "Amt": 4},
-    {"Time": 90.10, "Who": "Raygun1", "Action": "SetSpeed", "Amt": 1},
+    {"Time": 87.10, "Who": "Raygun1", "Action": "MoveToY", "Amt": 4},
+    {"Time": 87.10, "Who": "Raygun1", "Action": "SetSpeed", "Amt": 1},
 
-    {"Time": 90.10, "Who": "Raygun2", "Action": "MoveToY", "Amt": 4},
-    {"Time": 90.10, "Who": "Raygun2", "Action": "SetSpeed", "Amt": 1},
+    {"Time": 87.10, "Who": "Raygun2", "Action": "MoveToY", "Amt": 4},
+    {"Time": 87.10, "Who": "Raygun2", "Action": "SetSpeed", "Amt": 1},
 
     {"Time": 90.10, "Who": "Raygun1", "Action": "Barrage", "Amt": 10},
     {"Time": 90.10, "Who": "Raygun2", "Action": "Barrage", "Amt": 10},
@@ -254,8 +201,9 @@
     {"Time": 111.60, "Who": "Raygun1", "Action": "Flash", "Amt":1.5},
     {"Time": 111.60, "Who": "Raygun2", "Action": "Flash", "Amt": 1.5},
 
-    {"Time": 112.50, "Who": "Raygun1", "Action": "Flash", "Amt":1.5},
-    {"Time": 112.50, "Who": "Raygun2", "Action": "Flash", "Amt": 1.5},
+    {"Time": 112.50, "Who": "Raygun1", "Action": "Flash", "Amt":10.5},
+    {"Time": 112.50, "Who": "Raygun2", "Action": "Flash", "Amt": 10.5},
+
 
 
     {"Time": 124.60, "Action":"LerpToPlayer"},
@@ -290,23 +238,156 @@
     {"Time": 135.60, "Anim": "SpinShoot"},
     {"Time": 136.30, "Action":"LerpToPlayer"},
     {"Time": 136.30, "Anim": "SpinShoot"},
-    {"Time": 136.60, "Action":"LerpToPlayer"},
+    {"Time": 136.60, "Action":"Shake", "Amt": 11.40},
+
+    {"Time": 143.50, "Dialogue":"I'M GONNA LOSE MY SSSSSSSSSHHHHHHHHHIIIIIIIIIIIIIIIIITTTTTTTTTTTTTTTTTT"},
+    {"Time": 147.00, "Dialogue":""},
 
 
 
 
+    {"Time": 148.00, "Who": "Machinegun4", "Action": "Barrage", "Amt": 3},
+    {"Time": 148.00, "Who": "Machinegun1", "Action": "Barrage", "Amt": 3},
 
-
-
+    {"Time": 148.50, "Action":"ShootAtPlayer"},
+    {"Time": 148.50, "Dialogue":"DIE", "Amt": 0.10},
+    {"Time": 148.80,"Dialogue": ""},
     
-    {"Time": 180.10, "Who": "Machinegun4", "Action": "Barrage", "Amt": 10},
-    {"Time": 180.10, "Who": "Machinegun1", "Action": "Barrage", "Amt": 10},
-    {"Time": 180.10, "Who": "Machinegun2", "Action": "Barrage", "Amt": 10},
-    {"Time": 180.10, "Who": "Machinegun3", "Action": "Barrage", "Amt": 10},
+    {"Time": 150.10, "Action":"ShootAtPlayer"},
+    {"Time": 150.10, "Dialogue":"DIE", "Amt": 0.10},
+    {"Time": 150.40,"Dialogue": ""},
 
-    {"Time": 180.10, "Who": "Raygun1", "Action": "Barrage", "Amt": 10},
-    {"Time": 180.10, "Who": "Raygun2", "Action": "Barrage", "Amt": 10}
+    {"Time": 150.60, "Action":"ShootAtPlayer"},
+    {"Time": 150.60, "Dialogue":"DIE", "Amt": 0.10},
+    {"Time": 150.90,"Dialogue": ""},
 
+    {"Time": 151.00, "Who": "Machinegun2", "Action": "Barrage", "Amt": 3.10},
+    {"Time": 151.00, "Who": "Machinegun3", "Action": "Barrage", "Amt": 3.10},
+
+    {"Time": 151.10, "Action":"ShootAtPlayer"},
+    {"Time": 151.10, "Dialogue":"DIE", "Amt": 0.10},
+    {"Time": 151.40,"Dialogue": ""},
+
+    {"Time": 151.50, "Action":"ShootAtPlayer"},
+    {"Time": 151.50, "Dialogue":"DIE", "Amt": 1},
+    {"Time": 151.80,"Dialogue": ""},
+
+    {"Time": 153.10, "Action":"ShootAtPlayer"},
+    {"Time": 153.10, "Dialogue":"DIE", "Amt": 1},
+    {"Time": 153.40,"Dialogue": ""},
+
+    {"Time": 153.50, "Action":"ShootAtPlayer"},
+    {"Time": 153.50, "Dialogue":"DIE", "Amt": 1},
+    {"Time": 153.80,"Dialogue": ""},
+
+    {"Time": 154.10, "Who": "Machinegun4", "Action": "Barrage", "Amt": 3.10},
+    {"Time": 154.10, "Who": "Machinegun1", "Action": "Barrage", "Amt": 3.10},
+
+    {"Time": 154.20, "Action":"ShootAtPlayer"},
+    {"Time": 154.20, "Dialogue":"DIE", "Amt": 1},
+    {"Time": 154.50,"Dialogue": ""},
+    
+    {"Time": 154.60, "Action":"ShootAtPlayer"},
+    {"Time": 154.60, "Dialogue":"DIE", "Amt": 1},
+    {"Time": 154.90,"Dialogue": ""},
+
+    {"Time": 156.20, "Action":"ShootAtPlayer"},
+    {"Time": 156.20, "Dialogue":"DIE", "Amt": 1},
+    {"Time": 156.50,"Dialogue": ""},
+
+    {"Time": 156.60, "Action":"ShootAtPlayer"},
+    {"Time": 156.60, "Dialogue":"DIE", "Amt": 1},
+    {"Time": 156.90,"Dialogue": ""},
+
+    {"Time": 157.00, "Who": "Machinegun2", "Action": "Barrage", "Amt": 3},
+    {"Time": 157.00, "Who": "Machinegun3", "Action": "Barrage", "Amt": 3},
+
+    {"Time": 157.20, "Action":"ShootAtPlayer"},
+    {"Time": 157.20, "Dialogue":"DIE", "Amt": 1},
+    {"Time": 157.50,"Dialogue": ""},
+
+    {"Time": 157.60, "Action":"ShootAtPlayer"},
+    {"Time": 157.60, "Dialogue":"DIE", "Amt": 1},
+    {"Time": 157.90,"Dialogue": ""},
+
+    {"Time": 159.20, "Action":"ShootAtPlayer"},
+    {"Time": 159.20, "Dialogue":"DIE", "Amt": 1},
+    {"Time": 159.50,"Dialogue": ""},
+
+    {"Time": 159.60, "Action":"ShootAtPlayer"},
+    {"Time": 159.60, "Dialogue":"DIE", "Amt": 1},
+    {"Time": 159.90,"Dialogue": ""},
+
+    {"Time": 160.20, "Action":"ShootAtPlayer"},
+    {"Time": 160.20, "Dialogue":"DIE", "Amt": 1},
+    {"Time": 160.50,"Dialogue": ""},
+
+    {"Time": 160.60, "Action":"ShootAtPlayer"},
+    {"Time": 160.60, "Dialogue":"DIEEE!!!!!", "Amt": 1},
+    {"Time": 160.60, "Action":"LerpToPlayer"},
+    {"Time": 160.60, "Anim": "SpinShoot"},
+    {"Time": 162.00,"Dialogue": ""},
+
+
+
+    {"Time": 162.10, "Action":"LerpToPlayer"},
+    {"Time": 162.10, "Anim": "SpinShoot"},
+
+    {"Time": 163.60, "Action":"LerpToPlayer"},
+    {"Time": 163.60, "Anim": "SpinShoot"},
+
+    {"Time": 165.10, "Action":"LerpToPlayer"},
+    {"Time": 165.10, "Anim": "SpinShoot"},
+
+    {"Time": 166.30, "Action":"LerpToPlayer"},
+    {"Time": 166.30, "Anim": "SpinShoot"},
+
+    {"Time": 168.10, "Action":"LerpToPlayer"},
+    {"Time": 168.10, "Anim": "SpinShoot"},
+
+    {"Time": 169.30, "Action":"LerpToPlayer"},
+    {"Time": 169.30, "Anim": "SpinShoot"},
+
+    {"Time": 169.60, "Action":"LerpToPlayer"},
+    {"Time": 169.60, "Anim": "SpinShoot"},
+
+    {"Time": 171.10, "Action":"LerpToPlayer"},
+    {"Time": 171.10, "Anim": "SpinShoot"},
+
+    {"Time": 172.60, "Action":"LerpToPlayer"},
+    {"Time": 172.60, "Anim": "SpinShoot"},
+
+
+
+    {"Time": 173.10, "Who": "Raygun1", "Action": "Barrage", "Amt": 10},
+    {"Time": 173.10, "Who": "Raygun2", "Action": "Barrage", "Amt": 10},
+
+
+    {"Time": 177.60, "Who": "Raygun1", "Action": "Flash", "Amt":1.5},
+    {"Time": 177.60, "Who": "Raygun2", "Action": "Flash", "Amt": 1.5},
+
+    {"Time": 183.30, "Who": "Raygun1", "Action": "Flash", "Amt":1.5},
+    {"Time": 183.30, "Who": "Raygun2", "Action": "Flash", "Amt": 1.5},
+
+
+    {"Time": 187.45, "Who": "Raygun1", "Action": "Barrage", "Amt":0.85},
+    {"Time": 187.45, "Who": "Raygun2", "Action": "Barrage", "Amt": 0.85},
+
+    {"Time": 189.60, "Who": "Raygun1", "Action": "Flash", "Amt":1.5},
+    {"Time": 189.60, "Who": "Raygun2", "Action": "Flash", "Amt": 1.5},
+
+    {"Time": 193.30, "Who": "Raygun1", "Action": "Barrage", "Amt":0.85},
+    {"Time": 193.30, "Who": "Raygun2", "Action": "Barrage", "Amt": 0.85},
+
+    {"Time": 195.60, "Who": "Raygun1", "Action": "Flash", "Amt":1.5},
+    {"Time": 195.60, "Who": "Raygun2", "Action": "Flash", "Amt": 1.5},
+
+    {"Time": 196.50, "Who": "Raygun1", "Action": "Flash", "Amt":1.5},
+    {"Time": 196.50, "Who": "Raygun2", "Action": "Flash", "Amt": 1.5},
+
+    {"Time": 196.40, "Dialogue":"....."},
+    {"Time": 198.40, "Dialogue":"Machine: Clone#172 initiating self destruct"},
+    {"Time": 202.50}
 
   ]
 }
